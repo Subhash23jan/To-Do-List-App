@@ -16,6 +16,8 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+    //this is subhash from bangalore
+
     EditText item;
     Button add;
     ListView listView;
